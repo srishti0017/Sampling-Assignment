@@ -1,4 +1,3 @@
-# sampling-assignment
 # Comparing Sampling Techniques for 5 Machine Learning Models
 # Srishti Sharma
 # 102003017
